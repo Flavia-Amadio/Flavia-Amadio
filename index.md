@@ -5,6 +5,7 @@
    - 2013-2017 Bachelor in Physics at _La Sapienza University_, Rome, Italy
    - 2017-2019 Master in Astronomy and Astrophysics at _La Sapienza University_, Rome, Italy
    - 2020-now MC-ITN CHAMELEON PhD fellow at _Niels Bohr Institute_, Astrophysics and Planetary Science, _University of Copenaghen_
+   
 ### Curriculum vitae
 
 ### Contact

@@ -2,12 +2,12 @@
 
 
 ###  Education
-   - 2013 - 2017 : Bachelor in Physics at _La Sapienza University_, Rome, Italy
-                   _thesis_ : "Direct imaging to detect exoplanets"
-   - 2017 - 2019 : Master in Astronomy and Astrophysics at _La Sapienza University_, Rome, Italy
-                   _thesis_ : "Study of the impact of stellar activity on spectroscopic measurements of transiting exoplanets"
-   - 2020 - now : MC-ITN CHAMELEON PhD fellow at _Niels Bohr Institute_, Astrophysics and Planetary Science, _University of Copenaghen_
-                  _project title_ : "Irradiation and impact of stellar variability on exoplanetary atmospheres"
+   - 2013 - 2017 : Bachelor in Physics at _La Sapienza University_, Rome, Italy.
+                    _Thesis_ : "Direct imaging to detect exoplanets"
+   - 2017 - 2019 : Master in Astronomy and Astrophysics at _La Sapienza University_, Rome, Italy.
+                    _Thesis_ : "Study of the impact of stellar activity on spectroscopic measurements of transiting exoplanets"
+   - 2020 - now : MC-ITN CHAMELEON PhD fellow at _Niels Bohr Institute_, Astrophysics and Planetary Science, _University of Copenaghen_. 
+                  _Project title_ : "Irradiation and impact of stellar variability on exoplanetary atmospheres"
    
 ### Curriculum vitae
 

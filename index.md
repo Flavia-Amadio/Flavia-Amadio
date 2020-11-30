@@ -11,9 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Introduction
+## Education
+   * 2013-2017 Bachelor in Physics at La Sapienza University, Rome, Italy
+   * 2017-2019 Master in Astronomy and Astrophysics at La Sapienza University, Rome, Italy
+   * 2020-now MC-ITN CHAMELEON PhD fellow at Niels Bohr Institute, Astrophysics and Planetary Science, University of Copenaghen
+### Contact
 
 - Bulleted
 - List

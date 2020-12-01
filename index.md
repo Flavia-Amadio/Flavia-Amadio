@@ -1,5 +1,5 @@
 ## Introduction
-
+I am a PhD student at the University of Copenhagen and University of Leuven. My project is focused on updating the [MARCS code](https://ui.adsabs.harvard.edu/abs/2008A%26A...486..951G/abstract) by including irradiation 
 
 ###  Education
    - 2013 - 2017 : Bachelor in Physics at _La Sapienza University_, Rome, Italy.
@@ -19,7 +19,7 @@
 
 
 
-**Bold** and _Italic_ 
+
 
 [Link](url) and ![Image](src)
 ```

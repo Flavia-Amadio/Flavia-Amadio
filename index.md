@@ -9,7 +9,8 @@
    - 2020 - now : MC-ITN CHAMELEON PhD fellow at _Niels Bohr Institute_, Astrophysics and Planetary Science, _University of Copenaghen_. 
                   _Project title_ : "Irradiation and impact of stellar variability on exoplanetary atmospheres"
    
-### Curriculum vitae
+### Previous work
+   - Apr 2019 - Jan 2020 : 
 
 ### Contact
    - _address_ : Gothersgade 130, 1123 København K
